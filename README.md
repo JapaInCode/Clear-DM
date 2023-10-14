@@ -1,5 +1,7 @@
-![Interpol]([https://caminho/para/uma/imagen.png](https://cdn.discordapp.com/attachments/1135979458298388592/1162834738076196974/unknown.png?ex=653d613d&is=652aec3d&hm=09002fbb768624fd41323b1b36be98cdbf5b3aa15d814de90b02509c2c865831&))
-
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1135979458298388592/1162819453743018014/flirty_wink.png?ex=653d5301&is=652ade01&hm=3bf7ea29d60d75af5008c71ba8d3ac50263182e8e3015426b714a1b8115fee48&" alt="Logo" width="200">
+</p>
+[INTERPOL-2K23]
 # Bot de Limpeza de Mensagens Discord
 
 Este é um simples bot que limpa suas mensagens no Discord, que permite limpar suas mensagens em canais de texto. O bot foi criado com a intenção de ajudar os usuários a gerenciar suas mensagens de forma mais eficaz.
